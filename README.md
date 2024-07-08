@@ -1,6 +1,6 @@
 # About me
 
-Current status: learning Php Laravel, Java Spring boot, Sql, Vue 3, Angular 14
+Current status: learning Php Laravel, Java Spring boot, Sql, Vue 3, Angular (modules, not standalone, not signals)
 
 Hi, I am Javier and I am a React and Node.js web dev, my experience is based on projects I did to practice my skills, YouTube tutorials in Spanish from [jonmircha](https://www.youtube.com/@jonmircha) and [Kiko Palomares](https://www.youtube.com/@kikopalomares) that I took to learn, and Platzi's "[New free course on basic programming](https://platzi.com/cursos/programacion-basica/)" course in Spanish.
 
